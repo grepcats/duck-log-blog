@@ -3,6 +3,10 @@
   font-family: times;
   font-size: 1.5em;
   font-weight: bold;
+  border: 5px solid purple;
+  padding: 10px;
+  margin: 10px;
+  background-color: crimson;
 }
 
 .log {
@@ -10,6 +14,10 @@
   font-family: monospace;
   font-size: 1.5em
   font-style: italic;
+  border: 10px dotted black;
+  padding: 10px;
+  margin: 35px;
+  background-color: green;
 }
 
 .about {
