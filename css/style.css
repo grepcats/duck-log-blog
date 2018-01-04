@@ -40,3 +40,17 @@ h1, h2 {
 h1 {
   font-size: 3em;
 }
+
+
+@media all and (min-width: 768px) {
+  .duck {
+    background-color: pink;
+    font-family: sans-serif;
+    font-style: normal;
+  }
+}
+@media all and (min-width: 900px) {
+  .column {
+    width: 300px;
+    float: left;
+  }
