@@ -9,15 +9,22 @@
   background-color: crimson;
 }
 
+.duck p {
+  font-style: italic;
+}
+
 .log {
   color: brown;
   font-family: monospace;
-  font-size: 1.5em
-  font-style: italic;
+  font-size: 1.5em;
   border: 10px dotted black;
   padding: 10px;
   margin: 35px;
   background-color: green;
+}
+
+.log h3 {
+  font-family: fantasy;
 }
 
 .about {
@@ -28,4 +35,8 @@
 
 h1, h2 {
   text-align: center;
+}
+
+h1 {
+  font-size: 3em;
 }
